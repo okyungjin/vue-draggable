@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vivify-Ideas/vue-draggable"
+    "url": "git+https://github.com/okyungjin/Vivify-Ideas/vue-draggable"
   },
   "bugs": {
-    "url": "https://github.com/Vivify-Ideas/vue-draggable/issues"
+    "url": "https://github.com/okyungjin/Vivify-Ideas/vue-draggable/issues"
   },
   "typings": "types/index.d.ts",
   "files": [
@@ -37,7 +37,7 @@
   ],
   "author": "Nikola Spalevic",
   "license": "MIT",
-  "homepage": "https://github.com/Vivify-Ideas/vue-draggable#readme",
+  "homepage": "https://github.com/okyungjin/Vivify-Ideas/vue-draggable#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
