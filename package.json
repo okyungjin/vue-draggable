@@ -1,6 +1,6 @@
 {
-  "name": "vue-draggable",
-  "version": "2.0.6",
+  "name": "@kyungjin/vue-draggable",
+  "version": "0.0.1",
   "description": "Vue drag and drop library without any dependency",
   "main": "lib/vue-draggable.js",
   "scripts": {
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okyungjin/Vivify-Ideas/vue-draggable"
+    "url": "git+https://github.com/okyungjin/vue-draggable"
   },
   "bugs": {
-    "url": "https://github.com/okyungjin/Vivify-Ideas/vue-draggable/issues"
+    "url": "https://github.com/okyungjin/vue-draggable/issues"
   },
   "typings": "types/index.d.ts",
   "files": [
@@ -37,7 +37,7 @@
   ],
   "author": "Nikola Spalevic",
   "license": "MIT",
-  "homepage": "https://github.com/okyungjin/Vivify-Ideas/vue-draggable#readme",
+  "homepage": "https://github.com/okyungjin/vue-draggable#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
